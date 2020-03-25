@@ -1,0 +1,19 @@
+Program for solving Problem 1 (Partition the n integers into n/2 pairs) :
+Program for solving Problem 2 (Divide the n integers into n/log n groups of log n
+master file is for problem1 and master2 is for problem2
+
+Both programs compile with make command 
+executed the following way:
+   For the first program 
+   $ ./master data_100.txt
+
+for the second program we use
+$ ./master2 data_1000.txt
+
+we can check the results in adder_log.txt file
+
+Methods Comparison :-
+It took more time for method 1 than method 2.
+
+version control:-
+/classes/OS/pelaprol/pelaprol.3/log
